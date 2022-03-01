@@ -1,0 +1,34 @@
+---
+import Toggle from "../components/Toggle.astro"
+---
+<header>
+  <nav>
+    <a href="/">Home</a>
+    <a href="#">About</a>
+  </nav>
+  <Toggle />
+</header>
+
+<style>
+  header {
+    padding: var(--size-2) var(--size-6);
+    display: grid;
+    grid-template-columns: 1fr auto;
+    background-color: var(--surface2);
+    align-items: center;
+  }
+
+  nav{
+    display: flex;
+  }
+
+  a {
+    color: var(--text1);
+    padding-right: var(--size-3);
+  }
+
+  a:hover{
+      color: var(--brand);
+    }
+  }
+</style>

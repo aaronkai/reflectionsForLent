@@ -1,0 +1,42 @@
+---
+import {Debug} from 'astro/components'
+import BaseLayout from '../layouts/BaseLayout.astro'
+const week0 = Astro.fetchContent('./reflections/week-0/*.md')
+const week1 = Astro.fetchContent('./reflections/week-1/*.md')
+---
+<!-- <Debug {week1} /> -->
+
+<BaseLayout title="Meditations for Lent" >
+	<header>
+	<h1 class="text1">Meditations for Each Day of Lent</h1>
+	<h2 class="text2">by St. Thomas Aquinas</h2>
+	</header>
+	<main>
+	
+	<ul class="surface2"> Lead-up to First Week
+	{week0.map((datum) => (
+		<li>
+			<a href={datum.url}>{datum.title}</a>
+		</li>
+	))}
+	</ul>
+
+	<ul class="surface3"> 1st Week in Lent 
+	{week1.map((datum) => (
+		<li>
+			<a href={datum.url}>{datum.title}</a>
+		</li>
+	))}
+	</ul>
+	</main>
+	
+</BaseLayout>
+
+<style>
+	main {
+		display: grid;
+		gap: var(--size-3);
+		grid-template-columns: repeat(3, 1fr);
+
+	}
+</style>

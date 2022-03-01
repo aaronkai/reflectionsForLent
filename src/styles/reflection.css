@@ -1,0 +1,21 @@
+h1 {
+  max-inline-size: var(--size-header-2);
+}
+h2 {
+  color: var(--text1);
+  max-inline-size: var(--size-header-3);
+}
+p {
+  color: var(--text1);
+}
+
+.markdown p {
+  margin-bottom: var(--size-3);
+}
+.subtitle {
+  font-size: var(--font-size-5);
+}
+.scripture {
+  font-size: var(--font-size-3);
+  font-style: italic;
+}

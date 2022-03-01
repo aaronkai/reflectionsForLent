@@ -1,0 +1,19 @@
+---
+import Footer from '../components/Footer.astro'
+import Header from "../components/Header.astro"
+
+const {title} = Astro.props;
+---
+<html>
+  <head>
+    <title>{title || "missing title"}</title>
+    <link rel="stylesheet" type="text/css" href={Astro.resolve('../styles/global.css')}>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>
