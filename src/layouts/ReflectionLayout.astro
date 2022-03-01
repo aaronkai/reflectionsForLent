@@ -2,10 +2,10 @@
 import BaseLayout from '../layouts/BaseLayout.astro'
 import {Debug} from 'astro/components'
 const {content } =Astro.props;
-const title = content.title || "reflection"
+const title = content.title || "Day's reflection"
 ---
 <!-- <Debug {content} /> -->
-<BaseLayout title={title || "Day's Reflection"}>
+<BaseLayout title={title}>
   <head>
     <link rel="stylesheet" type="text/css" href={Astro.resolve('../styles/reflection.css')} />    
   </head>
@@ -15,6 +15,9 @@ const title = content.title || "reflection"
       <h2 class="text2 subtitle">{content.subtitle || ''}</h2>
       <h2 class="text2 scripture">{content.scripture}</h2>
     </header>
+
+
+    
     <main class="markdown">
       <slot />
     </main>
