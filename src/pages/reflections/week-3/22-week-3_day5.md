@@ -4,7 +4,7 @@ title: Thursday after the Third Sunday of Lent
 subtitle: The preaching of the Samaritan woman
 scripture: The woman therefore left her water-pot, and went her way
 into the city.--John iv. 28.
-day: 15
+day: 22
 ---
 
 This woman, once Christ had instructed her, became an apostle. There are three things which we can gather from what she said and what she did.
