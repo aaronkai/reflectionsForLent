@@ -3,40 +3,87 @@ import {Debug} from 'astro/components'
 import BaseLayout from '../layouts/BaseLayout.astro'
 const week0 = Astro.fetchContent('./reflections/week-0/*.md')
 const week1 = Astro.fetchContent('./reflections/week-1/*.md')
+const week2 = Astro.fetchContent('./reflections/week-2/*.md')
 ---
 <!-- <Debug {week1} /> -->
 
 <BaseLayout title="Meditations for Lent" >
-	<header>
-	<h1 class="text1">Meditations for Each Day of Lent</h1>
-	<h2 class="text2">by St. Thomas Aquinas</h2>
-	</header>
-	<main>
-	
-	<ul class="surface2"> Lead-up to First Week
-	{week0.map((datum) => (
-		<li>
-			<a href={datum.url}>{datum.title}</a>
-		</li>
-	))}
-	</ul>
+	<div class="wrapper">
+		<header>
+		<h1 class="text1">Meditations for Each Day of Lent</h1>
+		<h2 class="text2">by St. Thomas Aquinas</h2>
+		</header>
+		<main class="table-of-contents">
+			<div class="surface2 card">
+				<h3 class="text1">Lead-up to First Week</h3>
+				<ul class="surface2"> 
+				{week0.map((datum) => (
+					<li>
+						<a href={datum.url}>{datum.title}</a>
+					</li>
+				))}
+				</ul>
+			</div>
 
-	<ul class="surface3"> 1st Week in Lent 
-	{week1.map((datum) => (
-		<li>
-			<a href={datum.url}>{datum.title}</a>
-		</li>
-	))}
-	</ul>
-	</main>
+			<div class="surface3 card"> 
+				<h3 class="text1">1st Week in Lent</h3>
+				<ul > 
+				{week1.map((datum) => (
+					<li>
+						<a href={datum.url}>{datum.title}</a>
+					</li>
+				))}
+				</ul>
+			</div>
+
+			<div class="surface2 card"> 
+				<h3 class="text1">2st Week in Lent</h3>
+				<ul > 
+				{week2.map((datum) => (
+					<li>
+						<a href={datum.url}>{datum.title}</a>
+					</li>
+				))}
+				</ul>
+			</div>
+			
+		</main>
+	</div>
 	
 </BaseLayout>
 
 <style>
-	main {
+	header {
+		margin-bottom: var(--size-6);
+	}
+	.table-of-contents {
 		display: grid;
 		gap: var(--size-3);
 		grid-template-columns: repeat(3, 1fr);
+	}
+	
+	.table-of-contents div {
+		box-shadow: var(--shadow-3);
+		border: var(--border-size-2) solid var(--brand);
+		padding: var(--size-6);
+	}
+	.wrapper { 
+		display: grid;
+		gap: var(--size-6);
+	}
 
+	ul {
+		    padding: 0;
+				list-style-position: inside
+    /* list-style-type: none; */
+	}
+	li{
+		padding: 0;
+	}
+	a {
+		color: var(--text1)
+	}
+	a:visited {
+		color: var(--text2)
 	}
 </style>

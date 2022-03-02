@@ -1,3 +1,8 @@
+html,
+body {
+  max-block-size: 100px;
+}
+
 h1 {
   max-inline-size: var(--size-header-2);
 }
@@ -8,10 +13,14 @@ h2 {
 p {
   color: var(--text1);
 }
+header {
+}
 
-
-
-
+.markdown {
+  display: grid;
+  gap: var(--size-6);
+  margin: 0 auto;
+}
 
 .markdown p {
   margin-bottom: var(--size-3);
