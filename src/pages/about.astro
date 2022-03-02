@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+
+---
+
+<BaseLayout title="About this Resourse" >
+	<div class="wrapper">
+		<header>
+		<h1 class="text1">About this Resourse</h1>
+		</header>
+		<main>
+      <p>I discovered this text through listening to 
+        <a href="https://pintswithaquinas.com">Pints with Aquinas</a>
+      </p>
+      <p>
+        I found the text on 
+        <a href="https://catholicharboroffaithandmorals.com">another website.</a>
+      </p>
+      <p>I wanted to recreate it as a means of learning it better.</p>
+      <p>I apologize for any typos. If you see anything that needs to be corrected, 
+        <a href="https://github.com/aaronkai/reflectionsForLent/issues"> let me know.</a> 
+      </p>
+      <p>I am a simple lay person and not a confirmed Catholic. Nonetheless, my intentions creating this were good, and I hope you can enjoy it if you choose to.</p>
+    </main>
+	</div>
+</BaseLayout>
+
+<style>
+	header {
+		margin-bottom: var(--size-6);
+	}
+
+	.wrapper { 
+		display: grid;
+		gap: var(--size-6);
+	}
+
+</style>

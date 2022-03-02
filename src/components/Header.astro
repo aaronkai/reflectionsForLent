@@ -3,9 +3,10 @@ import Toggle from "../components/Toggle.astro"
 ---
 <header>
   <nav>
-    <a href="/">Home</a>
-    <a href="#">About</a>
+    <a class="nav" href="/">Home</a>
+    <a class="nav" href="/about">About</a>
   </nav>
+  <h1>Meditations for Lent by Thomas Aquinas</h1>
   <Toggle />
 </header>
 
@@ -13,9 +14,19 @@ import Toggle from "../components/Toggle.astro"
   header {
     padding: var(--size-2) var(--size-6);
     display: grid;
-    grid-template-columns: 1fr auto;
+    grid-template-columns: auto 1fr auto;
     background-color: var(--surface2);
     align-items: center;
+    border-bottom: var(--border-size-2) solid var(--brand);
+    box-shadow: var(--shadow-2)
+  }
+
+  header h1 {
+    font-size: var(--font-size-3);
+    text-align: center;
+    max-inline-size: none;
+    color: var(--text1);
+
   }
 
   nav{
@@ -25,6 +36,9 @@ import Toggle from "../components/Toggle.astro"
   a {
     color: var(--text1);
     padding-right: var(--size-3);
+    font-family: 'Cormorant Garamond', serif;
+    font-size: var(--font-size-3);
+    font-weight: var(--font-weight-7)
   }
 
   a:hover{

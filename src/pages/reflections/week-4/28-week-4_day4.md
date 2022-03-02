@@ -1,8 +1,7 @@
 ---
 layout: ../../../layouts/ReflectionLayout.astro
 title: Wednesday after the Fourth Sunday of Lent
-scripture: His sisters sent to Him saying : Lord, behold, he whom
-Thou lovest is sick.--John xi. 3.
+scripture: His sisters sent to Him saying, Lord, behold, he whom Thou lovest is sick.--John xi. 3.
 subtitle: The Divine Friend
 day: 28
 ---

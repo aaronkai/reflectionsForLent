@@ -100,8 +100,16 @@ body {
   font-family: system-ui, sans-serif;
   display: grid;
   grid-template-rows: auto 1fr auto;
-  gap: var(--size-6);
+  gap: var(--size-10);
   margin: 0;
+}
+
+a {
+  font-weight: var(--font-weight-7);
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .brand {
@@ -135,4 +143,16 @@ body {
 
 .text2 {
   color: var(--text2);
+}
+/* Typography */
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Cormorant Garamond", serif;
+}
+p,
+a {
+  font-family: "Roboto", sans-serif;
+  font-weight: var(--fort-weight-4);
 }

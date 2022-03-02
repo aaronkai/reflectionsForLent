@@ -1,4 +1,6 @@
-html,
+htmltitle: Thursday after the Fourth Sunday of Lent
+subtitle: The Death of Lazarus
+scripture: Lazarus our friend sleepeth--(John xi. 11),
 body {
   max-block-size: 100px;
 }
@@ -9,6 +11,7 @@ h1 {
 h2 {
   color: var(--text1);
   max-inline-size: var(--size-header-3);
+  font-size: var(--font-size-7);
 }
 p {
   color: var(--text1);
@@ -19,16 +22,23 @@ header {
 .markdown {
   display: grid;
   gap: var(--size-6);
-  margin: 0 auto;
 }
 
 .markdown p {
   margin-bottom: var(--size-3);
+  max-inline-size: var(--size-content-2);
 }
+
 .subtitle {
   font-size: var(--font-size-5);
 }
+
 .scripture {
-  font-size: var(--font-size-3);
+  font-size: var(--font-size-4);
   font-style: italic;
+}
+
+.wrapper {
+  display: grid;
+  justify-items: center;
 }

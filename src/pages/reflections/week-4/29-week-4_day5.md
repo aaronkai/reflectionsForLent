@@ -1,42 +1,31 @@
 ---
 layout: ../../../layouts/ReflectionLayout.astro
-title: Thursday after the Third Sunday of Lent
-subtitle: The preaching of the Samaritan woman
-scripture: The woman therefore left her water-pot, and went her way
-into the city.--John iv. 28.
-day: 15
+title: Thursday after the Fourth Sunday of Lent
+subtitle: The Death of Lazarus
+scripture: Lazarus our friend sleepeth--(John xi. 11)
+day: 29
 ---
 
-This woman, once Christ had instructed her, became an apostle. There are three things which we can gather from what she said and what she did.
+Our friend for the many benefits and services he rendered us, and therefore we owe it not to fail in his necessity. Sleepeth, therefore we must come to his assistance: a brother is proved in distress (Prov. xvii. 17).
 
-## 1.
+He sleepeth, I say, as St. Augustine says, to the Lord. But to men he was dead, nor had they power to raise him.
 
-The entirety of her surrender to Our Lord. This is shown:
+Sleep is a word we use with various meanings. We use it to mean natural sleep, negligence, blameworthy inattention, the peace of contemplation, the peace of future glory, and we use it also to mean death. We will not have you ignorant, concerning the last sleep, that you be not sorrowful, even as others that have no hope, says St. Paul (i Thess. iv. 12).
 
-(i) From the fact that she left lying there, almost as if forgotten, that for which she had come to the well, the water and the water-pot. So great was her absorption. Hence it is said, The woman left her water-pot and went away into the city, went away to announce the wonderful works of Christ. She cared no longer for the bodily comforts in view of the usefulness of better things, following in this the example of the Apostles of whom it is said that, Leaving their nets they followed the Lord (Mark 1. 18).
+Death is called sleep because of the hope of resurrection, and so it has been customary to give death this name since the time when Christ died and was raised again, I have slept and have taken my rest (Ps. iii. 6).
 
-The water-pot stands for fashionable desire, by means of which men draw up pleasures from those depths of darkness signified by the well, that is, from practices which are of the earth earthy. Those who abandon such desires for the sake of God are like the woman who left her water-pot.
+I go that I may awake him out of sleep--(John xi. n).
 
-(ii) From the multitude of people to whom she tells the news, not to one nor to two or three but to a whole city. This is why she went away into the city.
+In these words Jesus gives us to understand that He could raise Lazarus from the tomb as easily as we raise a sleeper from his bed. Nor is this to be wondered at, for He is none other than the Lord who raiseth up the dead and giveth life (John v. 21). And hence He is able to say, The hour ccmeth when all that are in the graves shall hear the voice of the Son of God (ibid. v. 28).
 
-## 2.
+Let us go to him (John xi. 15).
 
-A method of preaching.
+Here it is the mercifulness of God that we are shown. Men, living in sin and as it were dead, unable to any power of their own to come to Him, He mercifully draws, anticipating their desire and need. Jeremias speaks of this when he says, Thus saith the Lord I have loved thee with an everlasting love, therefore have I drawn thee, taking pity on thee (Jer. xxxi. 3).
 
-She saith to the men there: Come, and see a man who has told me all things whatsoever I have done. Is not He the Christ?--John iv. 29.
+Jesus therefore came and found that he had been four days already in the grave (John xi. 17).
 
-(i) She invites them to look upon Christ: Come, and see a man--she did not straightway say that they should give themselves to Christ, for that might have been for them an occasion for blasphemy, but, to begin with, she told them things about Christ which were believable and open to observation. She told them He was a man. Nor did she say, Believe, but come and see, for she knew that if they, too, tasted of that well, looking that is upon Our Lord, they, too, would feel all she had felt. And she follows the example of a true preacher in that she attracts the men not to herself but to Christ.
+St. Augustine sees in the four-days dead Lazarus a figure of the fourfold spiritual death of the sinner. He dies in fact through original sin, through actual sin, against the natural law, through actual sin against the written law, through actual sin against the law of the gospel and of grace.
 
-(ii) She gives them a hint that Christ is God when she says, A man who has told me all things whatsoever I have done, that is to say, how many husbands she had had. She is not ashamed to bring up things that make for her own confusion, because the soul, once it is lighted up with the divine fire, in no way looks to earthly values and standards, cares neither for its own glory nor its shame, but only for that flame which holds and consumes it.
+Another interpretation is that the first day represents the sin of the heart, Take away the evil of your thoughts, says Isaias (i. 16) ; the second day represents sins of the tongue; Let no evil speech proceed from your mouth, says St. Paul (Eph. iv. 29); the third day represents the sins of evil action, Cease to do perversely (Isaias i. 16); the fourth day stands for the sins of wicked habit.
 
-(iii) She suggests that this proves the majesty of Christ, saying, Is not he the Christ? She does not dare to assert that He is the Christ, lest she have the appearance of wishing to teach others, and the others, irritated thereat, refuse to go out to Him. Nor, on the other hand, does she leave the matter in silence, but she puts it before them questioningly, as though she left it to their own judgment. For this is the easiest of all ways of persuasion.
-
-## 3.
-
-The Fruit of Preaching.
-
-They therefore went out of the city and came unto Christ.--John iv. 30.
-
-Hereby it is made clear to us that if we would come to Christ, we too must go out of the city, which is to say, we must lay aside all love of bodily delights.
-
-Let us go forth therefore to Him without the camp (Heb. xiii. 13).
+Whatever explanation we give, Our Lord at times does heal those who are four days dead, that is, those who have broken the law of the gospel and are bound fast by habits of sin.

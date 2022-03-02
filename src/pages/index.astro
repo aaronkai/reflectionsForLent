@@ -5,14 +5,17 @@ const week0 = Astro.fetchContent('./reflections/week-0/*.md')
 const week1 = Astro.fetchContent('./reflections/week-1/*.md')
 const week2 = Astro.fetchContent('./reflections/week-2/*.md')
 const week3 = Astro.fetchContent('./reflections/week-3/*.md')
+const week4 = Astro.fetchContent('./reflections/week-4/*.md')
+const week5 = Astro.fetchContent('./reflections/week-5/*.md')
+const week6 = Astro.fetchContent('./reflections/week-6/*.md')
 ---
 <!-- <Debug {week1} /> -->
 
 <BaseLayout title="Meditations for Lent" >
 	<div class="wrapper">
 		<header>
-		<h1 class="text1">Meditations for Each Day of Lent</h1>
-		<h2 class="text2">by St. Thomas Aquinas</h2>
+			<h1 class="text1">Meditations for Each Day of Lent</h1>
+			<h2 class="text2">by St. Thomas Aquinas</h2>
 		</header>
 		<main class="table-of-contents">
 			<div class="surface2 card">
@@ -51,7 +54,40 @@ const week3 = Astro.fetchContent('./reflections/week-3/*.md')
 			<div class="surface3 card"> 
 				<h3 class="text1">3st Week in Lent</h3>
 				<ul > 
-				{week2.map((datum) => (
+				{week3.map((datum) => (
+					<li>
+						<a href={datum.url}>{datum.title}</a>
+					</li>
+				))}
+				</ul>
+			</div>
+
+			<div class="surface2 card"> 
+				<h3 class="text1">4th Week in Lent</h3>
+				<ul > 
+				{week4.map((datum) => (
+					<li>
+						<a href={datum.url}>{datum.title}</a>
+					</li>
+				))}
+				</ul>
+			</div>
+
+			<div class="surface3 card"> 
+				<h3 class="text1">Passion Week</h3>
+				<ul > 
+				{week5.map((datum) => (
+					<li>
+						<a href={datum.url}>{datum.title}</a>
+					</li>
+				))}
+				</ul>
+			</div>
+
+			<div class="surface2 card"> 
+				<h3 class="text1">Holy Week</h3>
+				<ul > 
+				{week6.map((datum) => (
 					<li>
 						<a href={datum.url}>{datum.title}</a>
 					</li>
@@ -65,7 +101,6 @@ const week3 = Astro.fetchContent('./reflections/week-3/*.md')
 
 <style>
 	header {
-		margin-bottom: var(--size-6);
 	}
 	.table-of-contents {
 		display: grid;
@@ -80,7 +115,7 @@ const week3 = Astro.fetchContent('./reflections/week-3/*.md')
 	}
 	.wrapper { 
 		display: grid;
-		gap: var(--size-6);
+		gap: var(--size-10);
 	}
 
 	ul {

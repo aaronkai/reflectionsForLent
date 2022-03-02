@@ -2,7 +2,7 @@
 layout: ../../../layouts/ReflectionLayout.astro
 title: Friday after the Fourth Sunday of Lent
 subtitle: The Precious Blood
-day: 23
+day: 30
 ---
 
 Through the blood of Christ the New Testament was confirmed. This chalice is the new testament in my blood (i Cor. xi. 25). Testament has a double meaning.
