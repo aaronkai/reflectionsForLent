@@ -13,6 +13,13 @@ h2 {
   max-inline-size: var(--size-header-3);
   font-size: var(--font-size-7);
 }
+
+h3 {
+  color: var(--text1);
+  max-inline-size: var(--size-header-3);
+  font-size: var(--font-size-4);
+}
+
 p {
   color: var(--text1);
 }

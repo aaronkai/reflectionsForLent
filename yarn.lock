@@ -45,9 +45,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/markdown-remark@npm:^0.6.2":
-  version: 0.6.2
-  resolution: "@astrojs/markdown-remark@npm:0.6.2"
+"@astrojs/markdown-remark@npm:^0.6.3":
+  version: 0.6.3
+  resolution: "@astrojs/markdown-remark@npm:0.6.3"
   dependencies:
     "@astrojs/prism": ^0.4.0
     assert: ^2.0.0
@@ -69,7 +69,7 @@ __metadata:
     unified: ^10.1.1
     unist-util-map: ^3.0.0
     unist-util-visit: ^4.1.0
-  checksum: 6b2ea16c9697cfabd3adfd5ef3ae848ba3e3b75ebf29b5e7c639b487f7fe67cb63a31ef6d75c1484436773ec7125928080d2b3d40cc8ab15e7bf060a2b817fdd
+  checksum: 949967bdcbaf7d2c8f09e69a59d0302926416e37b5951b00a5aea10c429d12a7bbc158e3cee80586aff89f50ed4e40ea6a4ced6994e17af8f1fa1f204aab5582
   languageName: node
   linkType: hard
 
@@ -1000,13 +1000,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:^0.23.2":
-  version: 0.23.3
-  resolution: "astro@npm:0.23.3"
+"astro@npm:^0.23.4":
+  version: 0.23.4
+  resolution: "astro@npm:0.23.4"
   dependencies:
     "@astrojs/compiler": ^0.11.4
     "@astrojs/language-server": ^0.8.6
-    "@astrojs/markdown-remark": ^0.6.2
+    "@astrojs/markdown-remark": ^0.6.3
     "@astrojs/prism": 0.4.0
     "@astrojs/renderer-preact": ^0.5.0
     "@astrojs/renderer-react": 0.5.0
@@ -1054,12 +1054,12 @@ __metadata:
     strip-ansi: ^7.0.1
     supports-esm: ^1.0.0
     tsconfig-resolver: ^3.0.1
-    vite: ^2.8.0
+    vite: ^2.8.6
     yargs-parser: ^21.0.0
     zod: ^3.8.1
   bin:
     astro: astro.js
-  checksum: 38e74927d667364197fdad6c51788f352daaab88ed4b019fab7ad7c1e2c7b60e8c531a298e6214f4e95e6dc426a6929b831cf456d3b68c7113f35845378ddb10
+  checksum: 763ee28a7f53d8c9c18a277f46a9bc4276d0a28a0c1ad2f845e0893c8c41bb823ccfdc0d10af73a5ab7cc5f2dacb17991bd5fefe3ff0496d59aa19cb23edfdbf
   languageName: node
   linkType: hard
 
@@ -3914,7 +3914,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"open-props@npm:^1.3.8":
+"open-props@npm:^1.3.9":
   version: 1.3.9
   resolution: "open-props@npm:1.3.9"
   checksum: 4a994e99aa6191b1f057a2b2539619747c19efb6132f94656536f54e517e535e168dcb994e61b1dd674640ffbb8ab15dbbca3cb683ef89f4935c2a5490ec26ba
@@ -4149,8 +4149,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "reflectionsForLent@workspace:."
   dependencies:
-    astro: ^0.23.2
-    open-props: ^1.3.8
+    astro: ^0.23.4
+    open-props: ^1.3.9
   languageName: unknown
   linkType: soft
 
@@ -5210,9 +5210,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^2.8.0":
-  version: 2.8.5
-  resolution: "vite@npm:2.8.5"
+"vite@npm:^2.8.6":
+  version: 2.8.6
+  resolution: "vite@npm:2.8.6"
   dependencies:
     esbuild: ^0.14.14
     fsevents: ~2.3.2
@@ -5235,7 +5235,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 07688f8183fee2595e389d966011e94b2a069a3b6f3ff06b8edf452daaea76e2432c26e0eb60156543b3e42fb93e739a5d74667cc4bfc2c86b7c58ac7912a333
+  checksum: 4b02d133892c98362c10214b7ad518d74b59745889197a2ba0b63260ed083fcef75a447e8fb58dbd2af8747386274b36017983d93031254df6ead38701950dcc
   languageName: node
   linkType: hard
 

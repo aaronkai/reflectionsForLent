@@ -13,9 +13,9 @@ Go forth, shake off the disturbing commerce of this world so that, with minds se
 
 In the diadem wherewith his mother crowned him, as though the Church said, "Look on Christ garbed with flesh for us, the flesh He took from the flesh of His mother." For it is His flesh that is here called a diadem, the flesh which Christ assumed for us, the flesh in which He died and destroyed the reign of death, the flesh in which, rising once again, He brought to us the hope of resurrection.
 
-This is the diadem of which St. Paul speaks, We see Jesus for the suffering of death crowned with glory and honour (Heb. ii. 9). His mother is spoken of as crowning Him because Mary the Virgin it was who from her own flesh gave Him flesh.
+This is the diadem of which St. Paul speaks, _We see Jesus for the suffering of death crowned with glory and honour (Heb. ii. 9)_. His mother is spoken of as crowning Him because Mary the Virgin it was who from her own flesh gave Him flesh.
 
-In the day of His espousals, that is, in the hour of His Incarnation, when He took to Himself the Church not having spot or wrinkle (Eph. v. 27), the hour again when God was joined with man. And in the day of the joy of his heart. For the joy and the gaiety of Christ is for the human race salvation and redemption. And coming home, He calls together His friends and neighbours saying to them, Rejoice with me, because I have found my sheep that was lost (Luke xv. 6).
+_In the day of His espousals, that is, in the hour of His Incarnation, when He took to Himself the Church not having spot or wrinkle (Eph. v. 27)_, the hour again when God was joined with man. And in the day of the joy of his heart. For the joy and the gaiety of Christ is for the human race salvation and redemption. And coming home, He calls together His friends and neighbours saying to them, Rejoice with me, because I have found my sheep that was lost (Luke xv. 6).
 
 ## 2.
 
