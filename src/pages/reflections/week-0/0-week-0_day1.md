@@ -25,7 +25,7 @@ Death is then natural, if we consider the matter of which man is made and it is 
 
 ## 3.
 
-Sin--original sin and actual sin--is taken away by Christ, that is to say, by Him who is also the remover of all bodily defects. _He shall quicken also your mortal bodies, because of His Spirit that dwelleth in you (Rom. viii. II)_.
+Sin--original sin and actual sin--is taken away by Christ, that is to say, by Him who is also the remover of all bodily defects. _He shall quicken also your mortal bodies, because of His Spirit that dwelleth in you (Rom. viii. 11)_.
 
 But, according to the order appointed by a wisdom that is divine, it is at the time which best suits that Christ takes away both the one and the other, i.e., both sin and bodily defects.
 
