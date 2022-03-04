@@ -3,7 +3,10 @@ header {
 .table-of-contents {
   display: grid;
   gap: var(--size-3);
-  /* grid-template-columns: repeat(auto-fit, var(--size-15)); */
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(var(--size-content-1), var(--size-content-2))
+  );
 }
 
 .table-of-contents div {

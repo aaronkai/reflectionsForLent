@@ -24,7 +24,7 @@ if (currentDay < 45 ){
 }
 
 ---
-<!-- <Debug {previous} /> -->
+<!-- <Debug {currentDay} /> -->
 <BaseLayout {title}>
   <head>
     <link
@@ -34,19 +34,19 @@ if (currentDay < 45 ){
     />
   </head>
   <div class="markdown">
-    <nav>
-        {previous ? `<a href=${previous.url}> Prev</a>` : '<a class="disabled">Previous</a>' }
-         {next ? `<a href=${next.url}> Next</a>` : '<a class="disabled">Next</a>' }
-    </nav>
     <header>
+    <nav>
+        {previous ? `<a href=${previous.url}><span class="arrow"> &#8249;</span> Prev</a>` : '<a class="disabled">Previous</a>' }
+         {next ? `<a href=${next.url}> Next <span class="arrow"> &#8250;</span></a>` : '<a class="disabled">Next</a>' }
+    </nav>
       <h1 class="text1">{content.title}</h1>
-      <h2 class="text2 subtitle">{content.subtitle || ""}</h2>
+      {content.subtitle ? `<h2 class="text2 subtitle">${content.subtitle} </h2>` : "" }
       <h2 class="text2 scripture">{content.scripture}</h2>
     </header>
 
-    <main class="markdown">
+    <article>
       <slot />
-    </main>
+    </article>
   </div>
 </BaseLayout>
 

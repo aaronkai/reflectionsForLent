@@ -6,15 +6,15 @@ import Toggle from "../components/Toggle.astro"
     <a class="nav" href="/">Home</a>
     <a class="nav" href="/about">About</a>
   </nav>
-  <h1>Meditations for Lent by Thomas Aquinas</h1>
+  <h1 class="title">Meditations for Lent by Thomas Aquinas</h1>
   <Toggle />
 </header>
 
 <style>
   header {
-    padding: var(--size-2) var(--size-6);
+    padding: var(--size-2);
     display: grid;
-    grid-template-columns: auto 1fr auto;
+    grid-template-columns: 1fr auto;
     background-color: var(--surface2);
     align-items: center;
     border-bottom: var(--border-size-2) solid var(--brand);
@@ -43,6 +43,19 @@ import Toggle from "../components/Toggle.astro"
 
   a:hover{
       color: var(--brand);
+  }
+
+  .title{
+    display: none;
+  }
+
+  @media screen and (min-width: 480px) {
+    header {
+      padding: var(--size-2) var(--size-6);
+      grid-template-columns: auto 1fr auto;
+    }
+    .title{
+      display: contents;
     }
   }
 </style>

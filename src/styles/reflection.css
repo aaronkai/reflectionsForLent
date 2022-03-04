@@ -24,11 +24,20 @@ p {
   color: var(--text1);
 }
 header {
+  display: grid;
+  gap: var(--size-3);
+}
+
+article h2 {
+  margin-bottom: var(--size-6);
+}
+article h3 {
+  margin-bottom: var(--size-3);
 }
 
 .markdown {
   display: grid;
-  gap: var(--size-6);
+  gap: var(--size-9);
 }
 
 .markdown p {

@@ -1,7 +1,6 @@
 ---
 layout: ../../../layouts/ReflectionLayout.astro
 title: Monday After First Sunday of Lent
-
 scripture: He was in the desert forty days and forty nights and was tempted by Satan. Mark i. 13.
 subtitle: Christ had to be tempted in the desert
 day: 5

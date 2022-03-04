@@ -3,7 +3,7 @@ layout: ../../../layouts/ReflectionLayout.astro
 title: Wednesday After First Sunday of Lent
 scripture: Attend and see if there be any sorrow like unto my sorrow. Lam. i. 12.
 subtitle: How Great was the Sorrow of Our Lord in His Passion?
-day: 6
+day: 7
 ---
 
 Our Lord as He suffered felt really, and in His senses, that pain which is caused by some harmful bodily thing. He also felt that interior pain which is caused by the fear of something harmful and which we call sadness. In both these respects the pain suffered by Our Lord was the greatest pain possible in this present life. There are four reasons why this was so.

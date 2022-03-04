@@ -1,7 +1,6 @@
 ---
 layout: ../../../layouts/ReflectionLayout.astro
 title: Thursday After First Sunday of Lent
-scripture: Attend and see if there be any sorrow like unto my sorrow. Lam. i. 12.
 subtitle: It was fitting that Christ should be Crucified with the Thieves
 day: 8
 ---

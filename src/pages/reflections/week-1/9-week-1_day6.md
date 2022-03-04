@@ -3,7 +3,7 @@ layout: ../../../layouts/ReflectionLayout.astro
 title: Friday After First Sunday of Lent
 scripture: One of the soldiers with a spear opened His side, and immediately there came out blood and water.--John xix. 34.
 subtitle: The Feast of the Holy Lance and the Nails of Our Lord
-day: 10
+day: 9
 ---
 
 ## 1.

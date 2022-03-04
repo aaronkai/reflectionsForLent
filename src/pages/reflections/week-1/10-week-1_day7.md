@@ -3,7 +3,7 @@ layout: ../../../layouts/ReflectionLayout.astro
 title: Saturday After First Sunday of Lent
 scripture: God commendeth His charity towards us because when as yet we were sinners, according to the time, Christ died for us.--Rom. v. 8, 9
 subtitle: The Love of God Shown in the Passion of Christ
-day: 9
+day: 10
 ---
 
 Christ was crucified between the thieves because such was the will of the Jews, and also because this was part of God's design. But the reasons why this was appointed were not the same in each of these cases.
