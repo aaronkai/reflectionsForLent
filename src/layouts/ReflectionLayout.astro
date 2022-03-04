@@ -1,9 +1,30 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import {Debug} from "astro/components"
 const { content } = Astro.props;
 const title = content.title || "Day's reflection";
----
+const currentDay = content.day;
 
+// pagination
+
+let previous = null;
+let next = null;
+
+
+const allReflections = Astro.fetchContent('../pages/reflections/*/*.md')
+if ( currentDay > 0 ){
+   [previous] = allReflections.filter(reflection => {
+    return reflection.day == (currentDay - 1);
+  });
+}
+if (currentDay < 45 ){
+   [next] = allReflections.filter(reflection => {
+    return reflection.day == (currentDay + 1);
+  });
+}
+
+---
+<!-- <Debug {previous} /> -->
 <BaseLayout {title}>
   <head>
     <link
@@ -13,6 +34,10 @@ const title = content.title || "Day's reflection";
     />
   </head>
   <div class="markdown">
+    <nav>
+        {previous ? `<a href=${previous.url}> Prev</a>` : '<a class="disabled">Previous</a>' }
+         {next ? `<a href=${next.url}> Next</a>` : '<a class="disabled">Next</a>' }
+    </nav>
     <header>
       <h1 class="text1">{content.title}</h1>
       <h2 class="text2 subtitle">{content.subtitle || ""}</h2>
@@ -24,3 +49,4 @@ const title = content.title || "Day's reflection";
     </main>
   </div>
 </BaseLayout>
+

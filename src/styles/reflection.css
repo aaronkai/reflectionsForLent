@@ -36,6 +36,11 @@ header {
   max-inline-size: var(--size-content-2);
 }
 
+.markdown nav {
+  display: flex;
+  justify-content: space-between;
+}
+
 .subtitle {
   font-size: var(--font-size-5);
 }
@@ -48,4 +53,9 @@ header {
 .wrapper {
   display: grid;
   justify-items: center;
+}
+
+.disabled {
+  pointer-events: none;
+  color: var(--gray-5);
 }
