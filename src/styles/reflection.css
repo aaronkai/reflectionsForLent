@@ -8,6 +8,8 @@ body {
 h1 {
   max-inline-size: var(--size-header-2);
 }
+
+h1,
 h2 {
   color: var(--text1);
   max-inline-size: var(--size-header-3);

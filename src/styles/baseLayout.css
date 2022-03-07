@@ -1,5 +1,3 @@
-header {
-}
 .table-of-contents {
   display: grid;
   gap: var(--size-3);
@@ -25,8 +23,7 @@ header {
   gap: var(--size-10);
   padding: var(--size-2);
 }
-
-ul {
+w ul {
   list-style-position: inside;
   padding-left: 0;
 }

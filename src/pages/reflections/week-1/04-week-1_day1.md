@@ -13,7 +13,7 @@ That He might assist us against our own temptations. St. Gregory says, " That ou
 
 ## 2.
 
-To warn us that no man, however holy he be, should think himself safe and free from temptation. Whence again His choosing to be tempted after His baptism, about which St. Hilary says, "The devil's wiles are especially directed to trap us at times when we have recently been made holy, because the devil desires no victory so much as a victory over the world of grace." Whence too, the scripture warns us, Son, when thou comest to the service of God, stand in justice and in fear, and prepare thy soul for temptation (Ecclus. ii. i).
+To warn us that no man, however holy he be, should think himself safe and free from temptation. Whence again His choosing to be tempted after His baptism, about which St. Hilary says, "The devil's wiles are especially directed to trap us at times when we have recently been made holy, because the devil desires no victory so much as a victory over the world of grace." Whence too, the scripture warns us, _Son, when thou comest to the service of God, stand in justice and in fear, and prepare thy soul for temptation (Ecclus. ii. i)_.
 
 ## 3.
 
@@ -21,4 +21,4 @@ To give us an example how we should over come the temptations of the devil, St. 
 
 ## 4.
 
-To fill and saturate our minds with confidence in His mercy. For we have not a high-priest who cannot have compassion on our infirmities, but one tempted in all things, like as we are, without sin (Heb. iv. 15).
+To fill and saturate our minds with confidence in His mercy. _For we have not a high-priest who cannot have compassion on our infirmities, but one tempted in all things, like as we are, without sin (Heb. iv. 15)_.

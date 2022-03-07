@@ -6,24 +6,24 @@ subtitle: The Love of God Shown in the Passion of Christ
 day: 10
 ---
 
-Christ was crucified between the thieves because such was the will of the Jews, and also because this was part of God's design. But the reasons why this was appointed were not the same in each of these cases.
-
 ## 1.
 
-As far as the Jews were concerned Our Lord was crucified with the thieves on either side to encourage the suspicion that he too was a criminal. But it fell out otherwise. The thieves themselves have left not a trace in the remembrance of man, while His cross is everywhere held in honour. Kings laying aside their crowns have broidered the cross on their royal robes. They have placed it on their crowns; on their arms. It has its place on the very altars. Everywhere, throughout the world, we behold the splendour of the cross.
+_Christ died for the ungodly (ibid. 6)_. This is a great thing if we consider who it is that died, a great thing also if we consider on whose behalf he died. _For scarce for a just man, will one die (ibid. 6)_, that is to say, that you will hardly find anyone who will die even to set free a man who is innocent, nay even it is said, _The just perisheth, and no man layeth it to heart (Isaias lvii)_.
 
-In God's plan Christ was crucified with the thieves in order that, as for our sakes he became accursed of the cross, so, for our salvation, He is crucified like an evil thing among evil things.
+Rightly therefore does St. Paul say scarce will one die. There might perhaps be found one, some one rare person who out of superabundance of courage would be so bold as to die for a good man. But this is rare, for the simple reason that so to act is the greatest of all things. _Greater love than this no man hath, says Our Lord himself, that a man lay down his life for his friends (John xv. 13)_.
+
+But the like of what Christ did himself, to die for evildoers and the wicked, has never been seen. Wherefore rightly do we ask in wonderment why Christ did it.
 
 ## 2.
 
-The Pope, St. Leo the Great, says that the thieves were crucified, one on either side of Him, so that in the very appearance of the scene of His suffering there might be set forth that distinction which should be made in the judgment of each one of us. St. Augustine has the same thought. "The cross itself," he says, " was a tribunal. In the centre was the judge. To the one side a man who believed and was set free, to the other side a scoffer and he was condemned." Already there was made clear the final fate of the living and the dead, the one class placed at His right, the other on His left.
+If in fact it be asked why Christ died for the wicked, the answer is that God in this way commendeth His charity towards us. He shows us in this way that He loves us with a love that knows no limits, for while we were as yet sinners Christ died for us.
+
+The very death of Christ for us shows the love of God, for it was His son whom He gave to die that satisfaction might be made for us. _God so loved the world, as to give His only begotten Son (John iii. 16)_. And thus as the love of God the Father for us is shown in his giving us His Holy Spirit, so also is it shown in this way, by his gift of his only Son.
+
+The Apostle says God commendeth signifying thereby that the love of God is a thing which cannot be measured. This is shown by the very fact of the matter, namely the fact that He gave His Son to die for us, and it is shown also by reason of the kind of people we are for whom He died. Christ was not stirred up to die for us by any merits of ours, when as yet we were sinners. _God (who is rich in mercy) for His exceeding charity wherewith He loved us, even when we were dead in sins, hath quickened us together in Christ (Eph. ii. 4)_.
 
 ## 3.
 
-According to St. Hilary the two thieves, placed to right and to left, typify that the whole of mankind is called to the mystery of Our Lord's Passion. And since division of things according to right and left is made with reference to believers and those who will not believe, one of the two, placed on the right, is saved by justifying faith.
+All these things are almost too much to be believed. _A work is done in your days, which no man will believe when it shall be told (Habac. i. 5)_. This truth that Christ died for us is so hard a truth that scarcely can our intelligence take hold of it. Nay it is a truth that our intelligence could in no way discover. And St. Paul, preaching, makes echo to Habacuc, _I work a work in your days, a work which you will not believe, if any man shall tell it to you (Acts xiii 14)_.
 
-## 4.
-
-As St. Bede says, the thieves who were crucified with Our Lord, represent those who for the faith and to confess Christ undergo the agony of martyrdom or the severe discipline of a more perfect life. Those who do this for the sake of eternal glory are typified by the thief on the right hand. Those whose motive is the admiration of whoever beholds them imitate the spirit and the act of the thief on the left-hand side.
-
-As Christ owed no debt in payment for which a man must die, but submitted to death of His own will, in order to overcome death, so also He had not done anything on account of which He deserved to be put with the thieves. But of His own will He chose to be reckoned among the wicked, that by His power He might destroy wickedness itself. Which is why St. John Chrysostom says that to convert the thief on the cross and to turn him to Paradise was as great a miracle as the earthquake.
+So great is God's love for us and His grace towards us, that He does more for us than we can believe or understand.

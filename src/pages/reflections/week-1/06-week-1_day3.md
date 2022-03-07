@@ -9,7 +9,7 @@ day: 6
 
 ## 1.
 
-By considering the men through whom He suffered. For He suffered something at the hands of Gentiles and of Jews, of men and even of women as the story of the servant girl who accused St. Peter goes to show. He suffered, again, at the hands of rulers, of their ministers, and of the people, as was prophesied, Why have the Gentiles raged; and the people devised vain things? The kings of the earth stood up, and the princes met together against the Lord and against his Christ (Ps. ii. i, 2).
+By considering the men through whom He suffered. For He suffered something at the hands of Gentiles and of Jews, of men and even of women as the story of the servant girl who accused St. Peter goes to show. He suffered, again, at the hands of rulers, of their ministers, and of the people, as was prophesied, _Why have the Gentiles raged; and the people devised vain things? The kings of the earth stood up, and the princes met together against the Lord and against his Christ (Ps. ii. i, 2)_.
 
 He suffered, too, from His friends, the men He knew best, for Peter denied Him and Judas betrayed Him.
 
