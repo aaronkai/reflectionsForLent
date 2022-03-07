@@ -4,7 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro'
 ---
 
 <BaseLayout title="About this Resourse" >
-	<div class="wrapper">
+	<div class="about-page-wrapper">
 		<header>
 		<h1 class="text1">About this Resourse</h1>
 		</header>
@@ -32,8 +32,9 @@ import BaseLayout from '../layouts/BaseLayout.astro'
 		margin-bottom: var(--size-6);
 	}
 
-	.wrapper { 
+	.about-page-wrapper { 
 		display: grid;
+    grid-template-rows: auto 1fr;
 		gap: var(--size-6);
 	}
 
