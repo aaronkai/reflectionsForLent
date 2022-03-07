@@ -5,4 +5,8 @@
 export default /** @type {import('astro').AstroUserConfig} */ ({
   // Comment out "renderers: []" to enable Astro's default component support.
   renderers: [],
+  buildOptions: {
+    site: "https://lent.immanent.dev",
+    sitemap: true,
+  },
 });
