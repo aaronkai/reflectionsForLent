@@ -2,6 +2,7 @@
 layout: ../../../layouts/ReflectionLayout.astro
 title: Holy Saturday
 subtitle: Why our Lord went down to Limbo
+day: 45
 ---
 
 From the descent of Christ to hell we may learn, for our instruction, four things:

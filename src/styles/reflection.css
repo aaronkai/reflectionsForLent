@@ -40,11 +40,11 @@ article h3 {
 .markdown {
   display: grid;
   gap: var(--size-9);
+  max-inline-size: var(--size-content-2);
 }
 
 .markdown p {
   margin-bottom: var(--size-3);
-  max-inline-size: var(--size-content-2);
 }
 
 .markdown nav {

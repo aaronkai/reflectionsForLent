@@ -17,14 +17,14 @@ if ( currentDay > 0 ){
     return reflection.day == (currentDay - 1);
   });
 }
-if (currentDay < 45 ){
+if (currentDay < 46 ){
    [next] = allReflections.filter(reflection => {
     return reflection.day == (currentDay + 1);
   });
 }
 
 ---
-<!-- <Debug {currentDay} /> -->
+<!-- <Debug {content} /> -->
 <BaseLayout {title}>
   <head>
     <link
@@ -47,6 +47,10 @@ if (currentDay < 45 ){
     <article>
       <slot />
     </article>
+        <nav>
+        {previous ? `<a href=${previous.url}><span class="arrow"> &#8249;</span> Prev</a>` : '<a class="disabled">Previous</a>' }
+         {next ? `<a href=${next.url}> Next <span class="arrow"> &#8250;</span></a>` : '<a class="disabled">Next</a>' }
+    </nav>
   </div>
 </BaseLayout>
 
