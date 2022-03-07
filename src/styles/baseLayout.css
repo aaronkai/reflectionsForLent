@@ -41,4 +41,7 @@ a:visited {
   ul {
     padding-left: var(--size-3);
   }
+  .wrapper {
+    padding: var(--size-3);
+  }
 }

@@ -41,11 +41,9 @@
   // Set document variable to selected color-scheme and toggle label highlighting if necessary
   function toggleTheme() {
     doc.setAttribute("color-scheme", this.value);
-    if (Array.from(this.parentNode.classList).includes("checked")) {
-      console.log("checked")
-    } else {
+    if (!Array.from(this.parentNode.classList).includes("checked")) {
       toggleChecked();
-    }
+    } 
   }
   // Add event listener to each radio button, run toggleTheme on click
   radios.forEach( radio => {
