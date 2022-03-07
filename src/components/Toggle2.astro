@@ -30,33 +30,27 @@
 
 <script>
   const radios = document.querySelectorAll('input[name="theme-toggle"]');
-  console.log({radios});
   const labels = document.querySelectorAll('div.theme-toggle label');
-  console.log({labels});
   const doc = document.firstElementChild;
-  const currentScheme = doc.getAttribute("color-scheme");
-  console.log(currentScheme);
   
   function toggleChecked() {
     labels.forEach( label => {
-      // console.log({label});
       label.classList.toggle("checked");
     })
   }
-
+  // Set document variable to selected color-scheme and toggle label highlighting if necessary
   function toggleTheme() {
-    console.log(this.value);
     doc.setAttribute("color-scheme", this.value);
     if (Array.from(this.parentNode.classList).includes("checked")) {
       console.log("checked")
     } else {
       toggleChecked();
     }
-    // if ( this.parentNode.classList.
   }
-
+  // Add event listener to each radio button, run toggleTheme on click
   radios.forEach( radio => {
     console.log({radio});
     radio.addEventListener('click', toggleTheme)
   } )
+
 </script>
