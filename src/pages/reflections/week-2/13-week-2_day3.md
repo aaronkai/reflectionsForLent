@@ -8,9 +8,9 @@ day: 13
 
 Grace was given to Christ not only as to a particular person, but also as far as He is the head of the Church, in order that the grace might pass over from Him to His members. And the good works Christ performed, therefore, stand in this same way in relation to Him and to His members, as the good works of any other man in a state of grace stand to himself.
 
-Now it is evident that any man who, in a state of grace, suffers for justice sake, merits for himself, by this very fact alone, salvation. As is said in the gospel, Blessed are they that suffer persecution for justice sake (Matt. v. 10). Whence Christ by His Passion merited salvation not only for Himself but for all His members.
+Now it is evident that any man who, in a state of grace, suffers for justice sake, merits for himself, by this very fact alone, salvation. As is said in the gospel, _Blessed are they that suffer persecution for justice sake (Matt. v. 10)_. Whence Christ by His Passion merited salvation not only for Himself but for all His members.
 
-Christ, indeed, from the very instant of His conception, merited eternal salvation for us. But there still remained certain obstacles on our part, obstacles which kept us from possessing ourselves of the effect of what Christ had merited. Wherefore, in order to remove these obstacles, it behoved Christ to suffer (Luke xxiv. 46).
+Christ, indeed, from the very instant of His conception, merited eternal salvation for us. But there still remained certain obstacles on our part, obstacles which kept us from possessing ourselves of the effect of what Christ had merited. Wherefore, in order to remove these obstacles, _it behoved Christ to suffer (Luke xxiv. 46)_.
 
 Now although the love of Christ for us was not increased in the Passion, and was not greater in the Passion than before it, the Passion of Christ had a certain effect which His previous meritorious activity did not have. The Passion produced this effect not on account of any greater love shown thereby, but because it was a kind of action fitted to produce that effect, as is evident from what has been said already on the fitness of the Passion of Christ.
 

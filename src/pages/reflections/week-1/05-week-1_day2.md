@@ -12,7 +12,7 @@ day: 5
 
 It was by Christ's own will that He was exposed to the temptation by the devil, as it was also by His own will that He was exposed to be slain by the limbs of the devil. Had He not so willed, the devil would never have dared to approach Him.
 
-The devil is always more disposed to attack those who are alone, because, as is said in Sacred Scripture, _If a man shall prevail against one, two shall with stand him easily (Eccles. iv. 12)_. That is why Christ went out into the desert, as one going out to a battle-ground, that there He might be tempted by the devil. Whereupon St. Ambrose says that Christ went into the desert for the express purpose of provoking the devil. For unless the devil had fought, Christ would never have overcome him for me.
+The devil is always more disposed to attack those who are alone, because, as is said in Sacred Scripture, _If a man shall prevail against one, two shall withstand him easily (Eccles. iv. 12)_. That is why Christ went out into the desert, as one going out to a battle-ground, that there He might be tempted by the devil. Whereupon St. Ambrose says that Christ went into the desert for the express purpose of provoking the devil. For unless the devil had fought, Christ would never have overcome him for me.
 
 St. Ambrose gives other reasons too. He says that Christ chose the desert as the place to be tempted for a hidden reason, namely that he might free from His exile Adam who, from Paradise, was driven into the desert; and again that He did it for a reason in which there is no mystery, namely to show us that the devil envies those who are tending towards a better life.
 
